@@ -1,0 +1,10 @@
+formated datestamp: 2025/03/02 13:09
+init done
+init lora
+(2, 18, 23, 19) 5 1 2 14 915.0 20
+lora init done
+Traceback (most recent call last):
+  File "ulora.py", line 368, in _handle_interrupt
+  File "server.py", line 67, in on_recv
+UnicodeError: 
+
